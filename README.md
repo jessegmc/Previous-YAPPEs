@@ -1,2 +1,2 @@
 # Previous-YAPPEs
-Previous Versions of YAPPE that are not in use anymore
+See 2D-YAPPE or 3D-YAPPE readme depending on what type of simulation it is.
